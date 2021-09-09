@@ -6,7 +6,7 @@ Make [laravel/passport](https://github.com/laravel/passport) token cacheable.
 ## Installing
 
 ```shell
-$ composer require overtrue/laravel-passport-cache-token -vvv
+$ composer require tposcic/laravel-passport-cache-token
 ```
 
 ## Usage
