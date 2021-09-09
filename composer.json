@@ -1,11 +1,11 @@
 {
-    "name": "overtrue/laravel-passport-cache-token",
-    "description": "Make laravel/passport token cacheable.",
+    "name": "tposcic/laravel-passport-cache-token",
+    "description": "Make laravel/passport token cacheable. Fork from https://github.com/overtrue/laravel-passport-cache-token",
     "license": "MIT",
     "authors": [
         {
-            "name": "overtrue",
-            "email": "anzhengchao@gmail.com"
+            "name": "tposcic",
+            "email": "tposcic@gmail.com"
         }
     ],
     "require": {
